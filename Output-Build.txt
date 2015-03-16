@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: Sortirovka, Configuration: Debug Win32 ------
+1>  main.cpp
+1>c:\users\студент\documents\visual studio 2010\projects\sortirovka\sortirovka\main.cpp(40): warning C4101: 'j' : unreferenced local variable
+1>  Sortirovka.vcxproj -> c:\users\студент\documents\visual studio 2010\Projects\Sortirovka\Debug\Sortirovka.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
